@@ -6,3 +6,5 @@ Branches help developers work safely.
 
 
 Just some changes
+
+I added a list of Git commands I practiced today.
