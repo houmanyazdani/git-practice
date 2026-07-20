@@ -1,4 +1,4 @@
-**Day 1:**
+# Day 1:
 *Git is a tool that saves history and keeps records of files*
 
 *Github is the website for developers to come and share their code.*
@@ -45,7 +45,7 @@
 
 *Ls shows about-me.md and README.md*
 
-**Day 2:**
+# Day 2:
 
 *A text-based interface*
 
@@ -70,3 +70,5 @@
 *pwd, Ls, cd ~*
 
 *rm, rm -rf*
+
+[Notion] (https://app.notion.com/p/zubink/One-day-beginner-Git-and-GitHub-plan-396ed2dc3bfb8029a01cc39c8877ed71?source=copy_link)
